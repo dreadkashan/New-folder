@@ -1,0 +1,17 @@
+h1{
+    font-size: larger;
+    font-family:'Sixtyfour';
+}
+p{
+    font-weight: bolder;
+    font-size: 20px;
+    
+    text-decoration: overline underline;
+    text-transform: lowercase;
+    text-shadow: 5px 5px 5px blue;
+   
+}
+#haha{
+    transform: rotateX(180deg);
+    box-shadow: 8px 9px 10px red;
+}
